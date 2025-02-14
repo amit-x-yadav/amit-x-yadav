@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>🔍 Data Analyst | Aspiring ML Engineer<br>📊 Currently working as a Data Analyst.<br>🤝 Looking to collaborate on Machine Learning (ML) projects.<br>🛠️ Seeking help from Backend Developers for collaborative projects.<br>🌱 Currently learning Machine Learning & Deep Learning.<br>💡 Ask me about Data Analytics, Visualization, and Automation.<br>⚡ Fun fact: I love solving complex data puzzles and automating repetitive tasks!
+🔍 Data Analyst | Aspiring ML Engineer<br>📊 Currently working as a Data Analyst.<br>🤝 Looking to collaborate on Machine Learning (ML) projects.<br>🛠️ Seeking help from Backend Developers for collaborative projects.<br>🌱 Currently learning Machine Learning & Deep Learning.<br>💡 Ask me about Data Analytics, Visualization, and Automation.<br>⚡ Fun fact: I love solving complex data puzzles and automating repetitive tasks!
 
 
 ## 🌐 Socials:
